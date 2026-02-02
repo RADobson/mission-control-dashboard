@@ -55,7 +55,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-02T11:33:35.994Z",
-      "status": "backlog"
+      "status": "in_progress",
+      "sortOrder": 0
     }
   ],
   "projects": [
@@ -70,11 +71,19 @@
     {
       "type": "moved",
       "actor": "RADobson",
+      "task": "Test 2",
+      "from": "backlog",
+      "to": "in_progress",
+      "time": "just now"
+    },
+    {
+      "type": "moved",
+      "actor": "RADobson",
       "task": "Test task",
       "from": "backlog",
       "to": "in_progress",
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-02-02T11:33:35.994Z"
+  "lastUpdated": "2026-02-02T11:33:39.591Z"
 }
