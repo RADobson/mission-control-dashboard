@@ -12,7 +12,17 @@
         {
           "id": "sub_1",
           "title": "Draft 3-bullet plan",
-          "done": false
+          "done": true
+        },
+        {
+          "id": "sub_2",
+          "title": "Add plan as task comment",
+          "done": true
+        },
+        {
+          "id": "sub_3",
+          "title": "Move task to review with completion summary",
+          "done": true
         }
       ],
       "priority": "medium",
@@ -24,7 +34,7 @@
         {
           "id": "c_1770030178876",
           "author": "MoltBot",
-          "text": "\ud83e\udd16 Processing started",
+          "text": "🤖 Processing started",
           "createdAt": "2026-02-02T21:02:58.876274Z"
         },
         {
@@ -40,7 +50,7 @@
       "id": "default",
       "name": "My Project",
       "color": "#3b82f6",
-      "icon": "\ud83d\udcc1"
+      "icon": "📁"
     }
   ],
   "activities": [
