@@ -17,15 +17,20 @@
       ],
       "priority": "medium",
       "createdAt": "2026-02-02T10:57:23.818Z",
-      "status": "in_progress",
+      "status": "review",
       "sortOrder": 0,
       "processingStartedAt": "2026-02-02T21:02:58.876274Z",
       "comments": [
         {
           "id": "c_1770030178876",
           "author": "MoltBot",
-          "text": "🤖 Processing started",
+          "text": "\ud83e\udd16 Processing started",
           "createdAt": "2026-02-02T21:02:58.876274Z"
+        },
+        {
+          "author": "Ernie",
+          "text": "3-bullet plan:\n- Confirm the Mission Control webhook triggers by moving a task to in_progress and verifying the hook session fires.\n- Ensure the hook agent can actually run (we switched the default model to openai-codex/gpt-5.2 because Anthropic auth was returning 401).\n- Prove end-to-end by having the agent write back to tasks.json (comment + move to review).",
+          "timestamp": "2026-02-02T11:03:28Z"
         }
       ]
     }
@@ -35,7 +40,7 @@
       "id": "default",
       "name": "My Project",
       "color": "#3b82f6",
-      "icon": "📁"
+      "icon": "\ud83d\udcc1"
     }
   ],
   "activities": [
