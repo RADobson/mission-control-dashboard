@@ -1,1 +1,0 @@
-/Users/ernie/.openclaw/workspace/skills/mission-control/scripts/mc-update.sh
