@@ -1,5 +1,19 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "task_1770029843818",
+      "title": "Test task",
+      "description": "Test task: write a 3-bullet plan",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-02T10:57:23.818Z",
+      "status": "backlog"
+    }
+  ],
   "projects": [
     {
       "id": "default",
@@ -9,5 +23,5 @@
     }
   ],
   "activities": [],
-  "lastUpdated": "2026-02-02T00:00:00Z"
+  "lastUpdated": "2026-02-02T10:57:23.818Z"
 }
