@@ -12,7 +12,16 @@
       "priority": "medium",
       "createdAt": "2026-02-02T10:57:23.818Z",
       "status": "in_progress",
-      "sortOrder": 0
+      "sortOrder": 0,
+      "processingStartedAt": "2026-02-02T21:02:58.876274Z",
+      "comments": [
+        {
+          "id": "c_1770030178876",
+          "author": "MoltBot",
+          "text": "🤖 Processing started",
+          "createdAt": "2026-02-02T21:02:58.876274Z"
+        }
+      ]
     }
   ],
   "projects": [
@@ -20,7 +29,7 @@
       "id": "default",
       "name": "My Project",
       "color": "#3b82f6",
-      "icon": "\ud83d\udcc1"
+      "icon": "📁"
     }
   ],
   "activities": [
