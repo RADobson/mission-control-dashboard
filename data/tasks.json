@@ -11,7 +11,7 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-02T10:57:23.818Z",
-      "status": "in_progress",
+      "status": "backlog",
       "sortOrder": 0
     }
   ],
@@ -20,7 +20,7 @@
       "id": "default",
       "name": "My Project",
       "color": "#3b82f6",
-      "icon": "📁"
+      "icon": "\ud83d\udcc1"
     }
   ],
   "activities": [
