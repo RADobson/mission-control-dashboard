@@ -43,6 +43,19 @@
           "timestamp": "2026-02-02T11:03:28Z"
         }
       ]
+    },
+    {
+      "id": "task_1770032015994",
+      "title": "Test 2",
+      "description": "This is a second test - see if we can use Opus 4.5 for this without resorting to GPT 5.2",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-02T11:33:35.994Z",
+      "status": "backlog"
     }
   ],
   "projects": [
@@ -63,5 +76,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-02-02T10:57:33.172Z"
+  "lastUpdated": "2026-02-02T11:33:35.994Z"
 }
